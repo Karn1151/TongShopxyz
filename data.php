@@ -4,7 +4,7 @@
   
   if (currentDate >= dueDate) {
     setTimeout(function(){
-      window.location.href = "https://zixca.store/"; <!--กูเขียนไห้ไม่บอกวิธีใช่หลอก -->
+      window.location.href = "https://zixca.store/"; 
     }, 0);  // wait for 3 seconds before redirecting
   }
 </script>
